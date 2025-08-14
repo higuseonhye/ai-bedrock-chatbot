@@ -131,7 +131,8 @@ ai-bedrock-chatbot/
 ├── lambda_function.py      # AWS Lambda handler
 ├── requirements.txt        # Python dependencies
 ├── cors_proxy_server.py    # Local development proxy
-└── README.md              # This file
+├── ai_chat_test.ipynb      # Jupyter Notebook for testing AI chat features
+└── README.md               # This file
 ```
 
 ## 🛠️ Local Development
