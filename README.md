@@ -1,1 +1,0 @@
-# ai-bedrock-chatbot
